@@ -6,7 +6,7 @@ import image from "../assets/productLap.jpg"
 
 const Productcard = () => {
   // Static product details
-//   const productImage = {image}; // Replace with actual image URL
+//   const productImage = {image}; 
   const productName = "HP Victus";
   const productPrice = "$99.99";
 

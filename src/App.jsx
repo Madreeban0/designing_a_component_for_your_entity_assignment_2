@@ -10,7 +10,7 @@ function App() {
     gridTemplateColumns: 'repeat(4, 1fr)',
     gap: '15px',
     padding: '20px',
-    // background: '	#/808080',
+    
   };
 
   return (
